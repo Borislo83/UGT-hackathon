@@ -1,0 +1,169 @@
+
+
+
+Dataset: csvs/accidents_2017.csv
+Id                   0.0
+District Name        0.0
+Neighborhood Name    0.0
+Street               0.0
+Weekday              0.0
+Month                0.0
+Day                  0.0
+Hour                 0.0
+Part of the day      0.0
+Mild injuries        0.0
+Serious injuries     0.0
+Victims              0.0
+Vehicles involved    0.0
+Longitude            0.0
+Latitude             0.0
+
+
+Dataset: csvs/air_quality_Nov2017.csv
+Station          0.000000
+Air Quality      0.000000
+Longitude        0.000000
+Latitude         0.000000
+O3 Hour         25.696379
+O3 Quality      25.696379
+O3 Value        28.603760
+NO2 Hour         0.957521
+NO2 Quality      0.957521
+NO2 Value        4.944290
+PM10 Hour       35.201950
+PM10 Quality    35.201950
+PM10 Value      36.507660
+Generated        0.000000
+Date Time        0.000000
+
+
+Dataset: csvs/air_stations_Nov2017.csv
+Station              0.0
+Longitude            0.0
+Latitude             0.0
+Ubication            0.0
+District Name        0.0
+Neighborhood Name    0.0
+
+
+Dataset: csvs/bus_stops.csv
+Code                 0.000000
+Transport            0.000000
+Longitude            0.000000
+Latitude             0.000000
+Bus.Stop             0.000000
+District.Name        0.506009
+Neighborhood.Name    0.506009
+
+
+Dataset: csvs/deaths.csv
+Year                 0.0
+District.Code        0.0
+District.Name        0.0
+Neighborhood.Code    0.0
+Neighborhood.Name    0.0
+Age                  0.0
+Number               0.0
+
+
+Dataset: csvs/immigrants_by_nationality.csv
+Year                 0.0
+District Code        0.0
+District Name        0.0
+Neighborhood Code    0.0
+Neighborhood Name    0.0
+Nationality          0.0
+Number               0.0
+
+
+Dataset: csvs/immigrants_emigrants_by_age.csv
+Year                 0.0
+District Code        0.0
+District Name        0.0
+Neighborhood Code    0.0
+Neighborhood Name    0.0
+Age                  0.0
+Immigrants           0.0
+Emigrants            0.0
+
+
+Dataset: csvs/immigrants_emigrants_by_destination.csv
+from      0.0
+to        0.0
+weight    0.0
+
+
+Dataset: csvs/immigrants_emigrants_by_destination2.csv
+from      0.0
+to        0.0
+weight    0.0
+
+
+Dataset: csvs/immigrants_emigrants_by_sex.csv
+Year                 0.0
+District Code        0.0
+District Name        0.0
+Neighborhood Code    0.0
+Neighborhood Name    0.0
+Gender               0.0
+Immigrants           0.0
+Emigrants            0.0
+
+
+Dataset: csvs/life_expectancy.csv
+Neighborhood    0.000000
+2006-2010       5.479452
+2007-2011       4.109589
+2008-2012       5.479452
+2009-2013       4.109589
+2010-2014       2.739726
+Gender          0.000000
+
+
+Dataset: csvs/most_frequent_baby_names.csv
+Order        0.0
+Name         0.0
+Gender       0.0
+Year         0.0
+Frequency    0.0
+
+
+Dataset: csvs/most_frequent_names.csv
+Order        0.0
+Name         0.0
+Gender       0.0
+Decade       0.0
+Frequency    0.0
+
+
+Dataset: csvs/population.csv
+Year                 0.0
+District.Code        0.0
+District.Name        0.0
+Neighborhood.Code    0.0
+Neighborhood.Name    0.0
+Gender               0.0
+Age                  0.0
+Number               0.0
+
+
+Dataset: csvs/transports.csv
+K001                                                       0.000000
+Underground                                                0.000000
+2.11937                                                    0.000000
+41.399203                                                  0.000000
+FGC (L6) - REINA ELISENDA (Sortida Duquesa d'Orleans)-     0.000000
+Sarrià-Sant Gervasi                                       25.230769
+Sarrià                                                    25.230769
+
+
+Dataset: csvs/unemployment.csv
+Year                 0.0
+Month                0.0
+District Code        0.0
+District Name        0.0
+Neighborhood Code    0.0
+Neighborhood Name    0.0
+Gender               0.0
+Demand_occupation    0.0
+Number               0.0
